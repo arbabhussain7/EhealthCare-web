@@ -1,0 +1,175 @@
+[25-Jul-2024 11:59:00 Europe/Berlin] PHP Notice:  Array to string conversion in E:\xamp\htdocs\care\controllers\AdminController.php on line 183
+[25-Jul-2024 11:59:50 Europe/Berlin] File uploaded successfully: public/uploads/66a2221691d28.jpg
+[25-Jul-2024 11:59:50 Europe/Berlin] Avatar uploaded successfully: public/uploads/66a2221691d28.jpg
+[25-Jul-2024 12:00:39 Europe/Berlin] PHP Notice:  Array to string conversion in E:\xamp\htdocs\care\controllers\AdminController.php on line 183
+[25-Jul-2024 12:00:56 Europe/Berlin] Using previous avatar: public/uploads/66a2221691d28.jpg
+[25-Jul-2024 12:02:26 Europe/Berlin] File uploaded successfully: public/uploads/66a222b2be3a8.png
+[25-Jul-2024 12:02:26 Europe/Berlin] Upload response: Array
+(
+    [success] => 1
+    [path] => public/uploads/66a222b2be3a8.png
+    [error] => 
+)
+
+[25-Jul-2024 12:02:26 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:02:26 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:02:48 Europe/Berlin] Decoded appointment_id: 34
+[25-Jul-2024 12:02:48 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:02:48 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:02:55 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:02:55 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+)
+
+[25-Jul-2024 12:03:06 Europe/Berlin] Decoded appointment_id: 34
+[25-Jul-2024 12:03:06 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:03:06 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:03:06 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:03:06 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+)
+
+[25-Jul-2024 12:07:34 Europe/Berlin] Decoded appointment_id: 34
+[25-Jul-2024 12:07:34 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:07:34 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:07:34 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:07:34 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+)
+
+[25-Jul-2024 12:07:51 Europe/Berlin] Decoded appointment_id: 34
+[25-Jul-2024 12:07:51 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:07:51 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:07:51 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:07:51 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+)
+
+[25-Jul-2024 12:08:06 Europe/Berlin] Decoded appointment_id: 34
+[25-Jul-2024 12:08:06 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:08:06 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:08:06 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:08:06 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+)
+
+[25-Jul-2024 12:09:35 Europe/Berlin] Decoded appointment_id: 34
+[25-Jul-2024 12:09:35 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:09:35 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzR9
+[25-Jul-2024 12:09:35 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:09:35 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+)
+
+[25-Jul-2024 12:10:12 Europe/Berlin] File uploaded successfully: public/uploads/66a22484b0edc.png
+[25-Jul-2024 12:10:12 Europe/Berlin] Upload response: Array
+(
+    [success] => 1
+    [path] => public/uploads/66a22484b0edc.png
+    [error] => 
+)
+
+[25-Jul-2024 12:10:12 Europe/Berlin] Set state: eyJhcHBvaW50bWVudF9pZCI6MzV9
+[25-Jul-2024 12:10:12 Europe/Berlin] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=online&client_id=1038568461771-d07ah3gare7rt4hbh1qb11ib5kda4cbu.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%2Fcare%2Fpatient%2Fwaiting.php&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcalendar&approval_prompt=auto&state=eyJhcHBvaW50bWVudF9pZCI6MzV9
+[25-Jul-2024 12:10:12 Europe/Berlin] Debug: Attendees Data - Array
+(
+    [0] => Array
+        (
+            [email] => redkhan13@gmail.com
+        )
+
+    [1] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+        )
+
+)
+
+[25-Jul-2024 12:10:12 Europe/Berlin] Debug: Prepared Attendees - Array
+(
+    [0] => Array
+        (
+            [email] => iamdanialafridi@gmail.com
+            [organizer] => 1
+        )
+
+)
+

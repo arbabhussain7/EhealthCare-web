@@ -1,0 +1,28 @@
+{
+  "name": "htdocs/care",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sikander Ali"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*",
+    "ext-pdo_mysql": "*",
+    "google/apiclient": "^2.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "care\\core\\": "core/",
+      "care\\config\\": "config/",
+      "care\\models\\": "models/",
+      "care\\controllers\\": "controllers/",
+      "care\\public\\": "public/"
+    }
+  },
+  "config": {
+    "disable-tls": true
+  }
+}
